@@ -1,1 +1,1 @@
-# Machine-Learning-Life-Cycle
+# Machine-Learning-Lifecycle
